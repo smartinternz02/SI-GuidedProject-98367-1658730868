@@ -3,7 +3,7 @@ Effective Heart Disease Prediction Using IBM Auto AI Service
 Following are the steps involved:
 1. Created IBM Watson Studio
 2. Created Machine Learning App
-3. Using Auto AI in Machine Learning, https://github.com/smartinternz02/SI-GuidedProject-85558-1658919695/blob/fcfadf8cb57b7b3a720f8a0c25567594b5a1adfe/patientdataV6.csv is uploaded for applying classifiers.
+3. Using Auto AI in Machine Learning, https://github.com/smartinternz02/SI-GuidedProject-98367-1658730868/blob/main/patientdataV6.csv is uploaded for applying classifiers.
 4. Snap Random Forest Classifier is found to be the best classifier for predictions.
 5. We test the set before deploying the app.
 6. Created Node-Red App to launch app.
